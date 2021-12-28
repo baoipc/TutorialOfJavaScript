@@ -175,7 +175,7 @@ Dùng cho mảng, chuỗi...(chưa học tới những cái còn lại)
 
     ![image Init Array](image/InitArray(2).png)
 
-> Mặc định khi tạo array, các phần tử bắt đầu tù chỉ số 0
+> Mặc định khi tạo array, các phần tử bắt đầu từ chỉ số 0
 
 #### Truy cập phần tử
 
